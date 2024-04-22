@@ -1,0 +1,121 @@
+.principal{
+
+    width: 40%;
+    height: 700px;
+    border: 1px solid red;
+    margin: auto;
+
+}
+
+.cabecalho{
+   
+    display: flex;
+    width: 90%;
+    height: 15%;
+    border: 1px solid red;
+    margin: auto;
+    margin-top: 15px;
+    justify-content: center;
+    align-items: center;
+    background-color: darkblue;
+    color: white;
+
+}
+
+.linha1{
+
+    display: flex;
+    width: 90%;
+    height: 35%;
+    border: 1px solid red;
+    margin: auto;
+    margin-top: 15px;
+    justify-content: center;
+    align-items: center;
+    background-color: darkblue;
+    color: white;
+}
+
+.direita{
+
+ 
+    width: 45%;
+    height: 100%;
+    border: 1px solid red;
+    margin: auto;
+
+    background-color: rgb(28, 139, 0);
+    color: white;
+}
+
+.esquerda{
+    display: flex;
+    width: 45%;
+    height: 100%;
+    border: 1px solid red;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(193, 76, 34);
+    color: white;
+
+}
+
+.cima{
+
+    display: flex;
+    width: 95%;
+    height: 47%;
+    border: 1px solid red;
+    margin: auto;
+    margin-bottom: 5px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(200, 198, 71);
+    color: white;
+
+}
+
+.baixo{
+    display: flex;
+    width: 95%;
+    height: 47%;
+    border: 1px solid red;
+    margin: auto;
+ 
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(238, 54, 177);
+    color: white;
+
+}
+
+.meio{
+
+    display: flex;
+    width: 90%;
+    height: 25%;
+    border: 1px solid red;
+    margin: auto;
+    margin-top: 15px;
+    justify-content: center;
+    align-items: center;
+    background-color: darkblue;
+    color: white;
+
+}
+
+.rodape{
+
+    display: flex;
+    width: 90%;
+    height: 12%;
+    border: 1px solid red;
+    margin: auto;
+    margin-top: 15px;
+    justify-content: center;
+    align-items: center;
+    background-color: darkblue;
+    color: white;
+
+}
